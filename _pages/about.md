@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: 
+title: Preview
 author_profile: true
 redirect_from: 
   - /about/
